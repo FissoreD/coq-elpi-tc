@@ -1,0 +1,20 @@
+[submodule "elpi"]
+	path = elpi
+	url = git@github.com:FissoreD/elpi.git
+	branch = phd
+[submodule "coq-elpi"]
+	path = coq-elpi
+	url = git@github.com:FissoreD/coq-elpi.git
+	branch = phd
+[submodule "tlc"]
+	path = tlc
+	url = git@github.com:FissoreD/tlc.git
+	branch = phd
+[submodule "stdpp"]
+	path = stdpp
+	url = git@github.com:FissoreD/stdpp.git
+	branch = phd
+[submodule "iris"]
+	path = iris
+	url = git@github.com:FissoreD/iris.git
+	branch = phd
