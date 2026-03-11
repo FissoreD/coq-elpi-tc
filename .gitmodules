@@ -18,3 +18,7 @@
 	path = iris
 	url = git@github.com:FissoreD/iris.git
 	branch = phd
+[submodule "coq"]
+	path = coq
+	url = git@github.com:FissoreD/coq
+	branch = phd
